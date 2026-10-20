@@ -1,0 +1,6 @@
+{
+  "name": "AgroServi 4x4 - Aplicación de Herbicidas y Dosificación Agrícola",
+  "description": "Plataforma interactiva de AgroServi 4x4 para el cálculo exacto de dosificación de herbicidas, calibración de equipos agrícolas según cultivo y terreno, y servicios de pulverización especializada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
